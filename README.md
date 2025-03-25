@@ -37,4 +37,4 @@ Responsible for fetching and displaying extra information from the trakt.tv API.
 **`MostWatchedContainer`** calls the trakt.tv API to get most watched shows and is the parent of `MostWatchedItem` which displays each result of the query. A user can also filter results based on specified times (week, month, year, ever).
 
 ## Acknowledgements
-My classmates at Flatiron School are always the best and most helpful, so thank you! Also thank you to my instructors Johann Kerr, Lindsey Wells and Andrew Cohn for always being an amazing second set of eyes for my work..
+My classmates at Flatiron School are always the best and most helpful, so thank you! Also thank you to my instructors Johann Kerr, Lindsey Wells and Andrew Cohn for always being an amazing second set of eyes for my work.
